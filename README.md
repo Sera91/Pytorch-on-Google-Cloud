@@ -25,11 +25,11 @@ In this repository are hosted the ML tutorial for the school organised by NIKHEC
 
 
 - [06-images.ipynb](06-images.ipynb)
-  :
+  : Let's take a look at how images are interpreted by computers. We need to understand this if we want to understand DL models
 
 
 - [07-convnets.ipynb](07-convnets.ipynb)
-  :
+  : tutorial on convolutional neural networks
 
 
 
