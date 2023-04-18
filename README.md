@@ -5,8 +5,41 @@ In this repository are hosted the ML tutorial for the school organised by NIKHEC
 
 ##Overview of the notebooks
 
-- [05_Dask_overview.ipynb](notebooks/00_overview.ipynb)
+
+- [01_intro.ipynb](05_Dask_overview.ipynb)
+  : A brief introduction to Pytorch
+
+
+- [02_autograd.ipynb] (02-autograd.ipynb)
+  :Introduction to gradient computation in pytorch
+
+- [03_sgd_training.ipynb] (03-sgd-training.ipynb )
+  : Training Deep Learning with Stochastic Gradient Descent
+
+- [04-optimizers.ipynb](04-optimizers.ipynb)
+  : Focusing on an important aspect of DL model: optimizers
+
+
+- [05_Dask_overview.ipynb](05_Dask_overview.ipynb)
   : A brief overview of the Dask API
+
+
+- [06-images.ipynb](06-images.ipynb)
+  :
+
+
+- [07-convnets.ipynb](07-convnets.ipynb)
+  :
+
+
+
+
+- [08_getting_started_with_TPUs.ipynb](08_getting_started_with_TPUs.ipynb)
+  :Learning about new technologies available on google cloud to train DL models
+    
+- [09_XLA_Resnet18_CIFAR_training.ipynb](09_XLA_Resnet18_CIFAR_training.ipynb)
+  : Resnet stands for Residual networks, as stated on Wikipedia DL page the most cited DL architecture of the 21st century. The CIFAR-10 dataset is a very famous dataset in computer vision. This dataset contains 60, 000 32×32 color images in 10 different classes (airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks), etc. 
+
 
 
 
