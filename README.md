@@ -10,7 +10,7 @@ In this repository are hosted the ML tutorial for the school organised by NIKHEC
   : A brief introduction to Pytorch
 
 
-- [02_autograd.ipynb] (02-autograd.ipynb)
+- [02_autograd.ipynb] (02-Autograd.ipynb)
   :Introduction to gradient computation in pytorch
 
 - [03_sgd_training.ipynb] (03-sgd-training.ipynb )
